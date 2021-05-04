@@ -1,0 +1,2 @@
+# pdf
+Olasılık Yoğunluk Fonksiyonu
